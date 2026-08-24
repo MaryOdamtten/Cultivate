@@ -367,8 +367,8 @@
   .bg-white {
     background-color: var(--color-white);
   }
-  .bg-\[url\(\/image\/heroImg\.jpg\)\] {
-    background-image: url(/image/heroImg.jpg);
+  .bg-\[url\(image\/heroImg\.jpg\)\] {
+    background-image: url(image/heroImg.jpg);
   }
   .bg-cover {
     background-size: cover;
